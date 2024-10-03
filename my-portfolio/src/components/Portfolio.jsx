@@ -18,7 +18,7 @@ const projects = [
     link: 'https://github.com/Harleenkahlon11/Vehicle-Builder.git',
   },
   {
-    id: 3,
+    id: 3, 
     title: 'Bytes-n- Bites',
     description: 'This is a short description of Bytes-n- Bites.',
     image: 'https://via.placeholder.com/400x300',
