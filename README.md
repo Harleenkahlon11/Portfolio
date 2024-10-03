@@ -1,4 +1,4 @@
-# Portfoli
+# Portfolio
 
 # My Portfolio
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects. It is designed to provide an easy-to-navigate, responsive, and interactive web experience for potential clients, employers, and collaborators to learn more about me.
@@ -33,3 +33,33 @@ The portfolio website is built using the following technologies:
 React.js: For building a dynamic and responsive UI.
 CSS (Custom and Framework-based): For styling and layout.
 React Router: For seamless navigation between different sections.
+
+
+# Contact
+You can contact me via email or fill out the form below:
+
+Email: abc@example.com
+LinkedIn: linkedin.com/in/harleen08
+GitHub: github.com/harleenkahlon11
+
+
+# Deployment
+You can deploy the portfolio using various hosting services. Here's a simple guide for deploying to Netlify:
+Push your code to GitHub.
+Go to Netlify.
+Click on New site from Git.
+Link your GitHub repository.
+Set the build command to npm run build and the publish directory to build/.
+Click Deploy Site and your portfolio is live!
+
+
+# Contact
+You can contact me via email or fill out the form below:
+
+Email: your.email@example.com
+LinkedIn: linkedin.com/in/your-username
+GitHub: github.com/your-username
+
+
+# License
+This project is open source and available under the MIT License.
