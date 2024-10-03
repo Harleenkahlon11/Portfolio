@@ -1,0 +1,123 @@
+/* src/components/Resume.css */
+.resume-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .resume-content{
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .resume-header {
+    text-align: center;
+  }
+  
+  .resume-header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+  }
+  
+  .resume-header p {
+    font-size: 1.1rem;
+    color: #666;
+    margin: 5px 0;
+  }
+  
+  .resume-section {
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
+  .resume-section h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .skills {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .skills div {
+    width: 45%;
+  }
+  
+  .skills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills ul li {
+    padding: 5px 0;
+  }
+  
+  .experience {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .experience-item {
+    margin-bottom: 20px;
+  }
+  
+  .experience-item h3 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .projects {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .project-item {
+    margin-bottom: 20px;
+  }
+  
+  .project-item h3 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .project-item p {
+    color: #555;
+  }
+  
+  .resume-footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1rem;
+  }
+  
+  .resume-footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .resume-footer a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 768px) {
+    .skills {
+      flex-direction: column;
+    }
+  
+    .skills div {
+      width: 100%;
+    }
+  
+    .experience {
+      flex-direction: column;
+    }
+  
+    .projects {
+      flex-direction: column;
+    }
+  }
+  
