@@ -56,9 +56,9 @@ Click Deploy Site and your portfolio is live!
 # Contact
 You can contact me via email or fill out the form below:
 
-Email: your.email@example.com
-LinkedIn: linkedin.com/in/your-username
-GitHub: github.com/your-username
+Email: abc@gmail.com
+LinkedIn: linkedin.com/in/harleenkaur08
+GitHub: github.com/harleenkahlon11
 
 
 # License
