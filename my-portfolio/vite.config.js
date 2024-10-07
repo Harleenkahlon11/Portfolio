@@ -9,4 +9,5 @@ export default defineConfig({
       '@': '/src',  // This creates an alias for the src folder
     },
   },
+  
 });
